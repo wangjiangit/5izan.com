@@ -72,6 +72,7 @@ class SiteController extends Controller
      */
     public function actionIndex()
     {
+        // hello 5izan.com
         return $this->render('index');
     }
 
